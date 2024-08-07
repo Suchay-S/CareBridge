@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #505058;
+}
+.nav-link{
+    color: #fefefe;
+}
+.btn{
+    background-color: #005882;
+}
+div{
+    text-align: center;
+}
+#top-container{
+    background-image: url('Images/bg.webp');
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: cover;
+}
