@@ -1,0 +1,11 @@
+.pfp{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.pfp-image{
+    height: 350px;
+    width: 250px;
+}

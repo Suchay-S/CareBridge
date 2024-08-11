@@ -13,6 +13,17 @@ div{
 #top-container{
     background-image: url('Images/bg.webp');
     background-repeat: no-repeat;
-    background-position: 0;
+    background-position: center;
     background-size: cover;
+    min-height: 500px;
+    background-attachment: fixed;
+}
+.carousel-control{
+    background-color: rgba(239, 239, 240, 0.5);
+}
+nav{
+    z-index: 1000;
+}
+.btn:hover{
+    background-color: #006fa4;
 }
